@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "This works!\n";
+    std::cout << "Second Commit\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
